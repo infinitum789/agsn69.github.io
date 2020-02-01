@@ -1,0 +1,73 @@
+@font-face {
+    font-family: Impact;
+    src: url(fonts/impact.ttf);
+   }
+
+
+body {
+	background-color: #CECABF;
+	visibility: hidden;
+}
+
+#top {
+	margin-top: 2%;
+	width: 80%;
+	margin-left: 10%;
+	font-family: Impact;
+	font-size: 2vw;
+	color: #47281D;
+}
+
+#adr {
+	width: 33%;
+	float: left;
+	padding: 1%;
+}
+
+
+#cont {
+	width: 23%;
+	float: right;
+	padding: 1%;
+	margin-left: 8%;
+}
+
+#navigate {
+	width: 85%;
+	margin-left: 20%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	font-size: 4vw;
+}
+
+A {
+	font-family: Impact;
+	font-size: 3vw;
+	color: #47281D;	
+}
+
+#content {
+	padding: 2%;
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+	border-radius: 0 0 2em 2em;
+	
+	font-size: 16pt;
+	line-height: 1.5;
+}
+
+#price {
+	font-size: 20pt;
+	color: blue;
+}
+
+#bottom {
+	margin-top: 2%;
+	margin-bottom:2%;
+	font-size: 100%;
+	color: white;
+	text-align: center;
+	height: 100px;
+}
+
