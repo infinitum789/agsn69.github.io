@@ -1,3 +1,5 @@
 User Agent: *
 Allow: /$
 Disallow: /
+Allow: /google36a4a5bf6415b991.html
+Allow: /yandex_aacec8bcbe64b187.html
