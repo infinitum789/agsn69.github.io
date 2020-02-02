@@ -1,4 +1,4 @@
 RewriteEngine On
 
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
-RewriteRule ^index\.html$ http://agrosnab-69.ru/ [R=301,L]
+RewriteRule ^index\.html$ http://www.agrosnab-69.ru/ [R=301,L]
