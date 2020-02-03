@@ -3,4 +3,5 @@ Allow: /$
 Disallow: /
 Disallow: /index.html
 Allow: /favicon.ico
+Allow: /sitemap.xml
 Sitemap: http://www.agrosnab-69.ru/sitemap.xml
