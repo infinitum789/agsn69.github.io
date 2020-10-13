@@ -53,7 +53,9 @@ A {
 
 #content {
 	text-align: justify;
-	padding: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 4%;
 	padding-top: 2%;
 	background-color: white;
 	width: 80%;
