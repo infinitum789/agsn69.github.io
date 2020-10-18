@@ -43,13 +43,11 @@ body {
 
 #navigate>a {
 	letter-spacing: 0.8vw;
-}
-
-#navigate>A {
 	font-family: Impact;
 	font-size: 2.8vw;
 	color: #47281D;	
 }
+
 
 
 #content {
