@@ -45,11 +45,12 @@ body {
 	letter-spacing: 0.8vw;
 }
 
-A {
+#navigate>A {
 	font-family: Impact;
 	font-size: 2.8vw;
 	color: #47281D;	
 }
+
 
 #content {
 	text-align: justify;
