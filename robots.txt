@@ -5,4 +5,6 @@ Disallow: /index.html
 Allow: /favicon.ico
 Allow: /sitemap.xml
 Allow: /main.css
+Allow: /pictures/*.png
+Allow: /fonts/*.ttf
 Sitemap: http://www.agrosnab-69.ru/sitemap.xml
