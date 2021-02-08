@@ -7,10 +7,10 @@
 body {
 	background-color: #CECABF;
 	visibility: hidden;
-	-webkit-text-size-adjust: none;
 }
 
 #top {
+	display: table;
 	margin-top: 2%;
 	width: 84%;
 	margin-left: 10%;
