@@ -8,4 +8,4 @@ Allow: /main.css
 Allow: /pictures/*.png
 Allow: /pictures/*.jpg
 Allow: /fonts/*.ttf
-Sitemap: http://www.agrosnab-69.ru/sitemap.xml
+Sitemap: https://www.agrosnab-69.ru/sitemap.xml
